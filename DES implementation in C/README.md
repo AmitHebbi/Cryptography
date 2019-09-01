@@ -19,4 +19,4 @@ __TEMP FILES –__
 - decrypted.txt – IT WILL CONTAIN OUR DECRYPTED TEXT IN BITS (SAME AS bits.txt IN CONTENT)
 
 
-_ Above program is tested in Windows environment using Code::Blocks 16.01. _
+_Above program is tested in Windows environment using Code::Blocks 16.01._
