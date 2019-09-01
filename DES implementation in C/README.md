@@ -1,0 +1,1 @@
+Data Encryption Standard (DES) is a symmetric-key algorithm for the encryption of electronic data. Although now considered insecure, it was highly influential in the advancement of modern cryptography.
