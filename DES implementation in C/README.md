@@ -17,3 +17,6 @@ __TEMP FILES –__
 - bits.txt – IT WILL CONTAIN OUR PLAIN TEXT CONVERTED IN BITS.
 - cipher.txt – IT WILL CONTAIN OUR ENCRYPTED TEXT IN BITS.
 - decrypted.txt – IT WILL CONTAIN OUR DECRYPTED TEXT IN BITS (SAME AS bits.txt IN CONTENT)
+
+
+_ _Above program is tested in Windows environment using Code::Blocks 16.01._ _
